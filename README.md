@@ -43,3 +43,6 @@ A modern and efficient Point of Sale (POS) Software developed using ASP.NET MVC.
 ![Screenshot 2024-02-16 095428](https://github.com/musa-imran/point-of-sale-mvc/assets/125245592/da9eb7e8-964b-4256-bda5-21c7d7cd3354)
 ### Items Management
 ![Screenshot 2024-02-16 095205](https://github.com/musa-imran/point-of-sale-mvc/assets/125245592/51d0a946-4a8f-458d-8693-11e3555e7654)
+
+## Source Code:
+To get project source code: Email at musaimran932@gmail.com
