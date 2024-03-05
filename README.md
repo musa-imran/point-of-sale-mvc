@@ -1,5 +1,4 @@
 # Point of Sale Software
-![image](https://github.com/musa-imran/point-of-sale-mvc/assets/125245592/bbf3c43f-a75c-462e-8b04-c726a8af87f4)
 
 A modern and efficient Point of Sale (POS) Software developed using ASP.NET MVC. Streamline your business operations with this user-friendly and feature-rich application designed to meet the needs of retail environments.
 
