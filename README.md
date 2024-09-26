@@ -26,6 +26,10 @@ A modern and efficient Point of Sale (POS) Software developed using ASP.NET MVC.
 
 - **HTML/CSS:** Structure and style the frontend for a seamless user experience.
 
+## To get project source code:
+- Email at musaimran932@gmail.com
+- WhatsApp: https://api.whatsapp.com/send?phone=923063239877
+
 ## Screenshots:
 
 ### User Login
